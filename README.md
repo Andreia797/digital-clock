@@ -18,6 +18,6 @@ Um relógio digital estilizado com um design inspirado em um tema anime. Ele inc
 
 ## Captura de Tela
 
-![Uploading Captura de Tela.png…]()
+![Captura de Tela](https://github.com/user-attachments/assets/a44ac3ca-9016-429b-ae19-0b6f3a358fa3)
 
 
